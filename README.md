@@ -1,7 +1,7 @@
 # PdfMake Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.4.
-![Image description](https://www.facebook.com/photo.php?fbid=884328805320576&set=a.127746970978767&type=3&theater)
+![Image description](https://media-exp1.licdn.com/dms/image/C4E03AQHCJa9scXR9hw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=B6jB1ctxP8-kQTskGtHJYK5g7oxUG44exv5cCuTt6pU)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
